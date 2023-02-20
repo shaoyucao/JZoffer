@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2563aa-a68d-4cd5-a403-03298958aefc" name="Changes" comment="add Singleton">
-      <change afterPath="$PROJECT_DIR$/chapter2/FindRepeatNumber.java" afterDir="false" />
+    <list default="true" id="6f2563aa-a68d-4cd5-a403-03298958aefc" name="Changes" comment="add &quot;数组中无重复的数字&quot;">
+      <change afterPath="$PROJECT_DIR$/chapter5/LengthOfLongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676684852768</updated>
-      <workItem from="1676684855232" duration="13756000" />
+      <workItem from="1676684855232" duration="24791000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1676685159085</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676723094005</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add &quot;数组中无重复的数字&quot;">
+      <created>1676804914084</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676804914084</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +119,7 @@
     <MESSAGE value="add chapter1" />
     <MESSAGE value="add chapters" />
     <MESSAGE value="add Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Singleton" />
+    <MESSAGE value="add &quot;数组中无重复的数字&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;数组中无重复的数字&quot;" />
   </component>
 </project>
