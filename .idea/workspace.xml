@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2563aa-a68d-4cd5-a403-03298958aefc" name="Changes" comment="add &quot;数组中无重复的数字&quot;">
-      <change afterPath="$PROJECT_DIR$/chapter5/LengthOfLongestSubstring.java" afterDir="false" />
+    <list default="true" id="6f2563aa-a68d-4cd5-a403-03298958aefc" name="Changes" comment="add &quot;最长不含重复字符的子字符串&quot;">
+      <change afterPath="$PROJECT_DIR$/chapter2/FindNumberIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/ReplaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/ReversePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/shaoyucao/Documents/IdeaProjects/JZoffer/chapter7"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shaoyucao/Documents/IdeaProjects/JZoffer/chapter7&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/chapter7" />
@@ -60,7 +64,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676684852768</updated>
-      <workItem from="1676684855232" duration="24791000" />
+      <workItem from="1676684855232" duration="27271000" />
+      <workItem from="1678609036223" duration="72000" />
+      <workItem from="1678609118578" duration="9085000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1676685159085</created>
@@ -97,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676804914084</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add &quot;最长不含重复字符的子字符串&quot;">
+      <created>1676886289649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676886289649</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +133,7 @@
     <MESSAGE value="add chapters" />
     <MESSAGE value="add Singleton" />
     <MESSAGE value="add &quot;数组中无重复的数字&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add &quot;数组中无重复的数字&quot;" />
+    <MESSAGE value="add &quot;最长不含重复字符的子字符串&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;最长不含重复字符的子字符串&quot;" />
   </component>
 </project>
