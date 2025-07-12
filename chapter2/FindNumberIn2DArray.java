@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * 面试题4：二维数组中的查找
  *
@@ -36,5 +38,12 @@ public class FindNumberIn2DArray {
             }
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+        int[] a = {3,1,5,6};
+        Arrays.sort(a);
+        System.out.println(Arrays.toString(a));
+
     }
 }
